@@ -5,6 +5,33 @@ title: Reference & Resources
 
 To learn about using Lesson Template, the content pages of this demo provide documentation and examples (also check the [README](https://github.com/learn-static/lesson-template/blob/main/README.md)).
 
+# Example
+
+This is a paragraph.
+This is still the same paragraph.
+
+- Item one
+- item town
+- item three
+
+Ordered list: 
+
+1. One
+2. Two
+3. Four
+
+**Bold these words**, _this will be italics_. 
+
+_**both**_
+
+[text to hyperlink](https://evanwill.github.io/markdown-everywhere/content/3-md-reference.html)
+
+This is `code inline`.
+
+```
+code block
+```
+
 Workshop sites using this template:
 
 - [Demo](https://learn-static.github.io/lesson-template/) (this repository) 
