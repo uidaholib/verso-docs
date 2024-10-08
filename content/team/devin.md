@@ -10,7 +10,7 @@ topics: Verso; Basic Config
 I am a team member. 
 This is my picture.
 
-{% include figure.html img="blob:https://verso.uidaho.edu/cad1aaa6-cf0d-44d2-acfa-4f62f892f3f0" alt="devin becker profile picture" caption="Hello" width="50%" %}
+{% include figure.html img="https://www.lib.uidaho.edu/media/verso/profile-pics/becker_devin.jpg" alt="devin becker profile picture" caption="Hello" width="50%" %}
 
 Here is a link to my profile
 
