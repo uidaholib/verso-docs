@@ -14,6 +14,8 @@ This is still the same paragraph.
 - item town
 - item three
 
+{% include figure.html img="BN_2024-09-27.jpg" alt="a dust storm looms over campus" caption="Dust Storm on Campus" %}
+
 Ordered list: 
 
 1. One
