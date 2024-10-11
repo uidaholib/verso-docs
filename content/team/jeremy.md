@@ -1,7 +1,7 @@
 ---
 section: Team
 nav_order: 4
-title: Jeremy kenyon
+title: Jeremy Kenyon
 topics: Verso; Basic Config
 ---
 
