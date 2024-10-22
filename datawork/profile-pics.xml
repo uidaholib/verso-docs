@@ -1,0 +1,11 @@
+---
+---
+<users>
+    {% for p in site.data.profile-pics %}<user>
+        <primary_id>{{ p.id }}</primary_id>
+        <is_researcher>true</is_researcher>
+        <researcher>
+            <photo_url>{{p.location}}</photo_url>
+        </researcher>
+    </user>{% endfor %}
+</users>
