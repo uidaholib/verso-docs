@@ -43,4 +43,5 @@ faculty will work on the same individual production. Instead of making a unique
 asset for the set designer, costume designer, etc., it is best to have one asset for
 a single instance of a play and add all the faculty to it as contributors. Images of 
 costumes, the set, promotional poster, etc. are always welcome.
+
 ![image](https://github.com/user-attachments/assets/86ba47f1-7907-44ee-b8a2-54a915d37ae0)
