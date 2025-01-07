@@ -11,7 +11,7 @@ topics:
 Seth Thompson 1/7/2025
 You can add ORCIDs to researcher profiles in a bulk update or individually.
 
-### To add and individual ORCID:
+### To add an individual ORCID:
 Click the researchers tab in the side bar. Click on Manage Researchers.  
 Search for your researcher in the top search bar.  
 After searching, you can navigate to the Affiliated tab to narrow the results further.  
