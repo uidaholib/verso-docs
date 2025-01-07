@@ -8,6 +8,7 @@ topics:
 - [CSV Researcher Loader Cloud App](https://knowledge.exlibrisgroup.com/Esploro/Product_Documentation/Esploro_Online_Help_(English)/Ongoing_Maintenance_and_Administration/Configuring_Cloud_Apps/CSV_Researcher_Loader_Cloud_App)
 
 ## Connecting Profiles to ORCID
+Seth Thompson 1/7/2025
 You can add ORCIDs to researcher profiles in a bulk update or individually.
 
 ### To add and individual ORCID:
