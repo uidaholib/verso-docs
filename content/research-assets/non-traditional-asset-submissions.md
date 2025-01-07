@@ -7,7 +7,7 @@ topics:
 ## Relevant Ex Libris Documentation
 - [Working with Research Assets](https://knowledge.exlibrisgroup.com/Esploro/Product_Documentation/Esploro_Online_Help_(English)/Working_with_the_Esploro_Research_Hub/010_Working_with_Research_Assets)
 
-# Non-traditional Asset Submissions
+## Non-traditional Asset Submissions
 Last updated 1/7/2025, Seth Thompson
 
 There will be times you will need to add assets that do not fall under the typical 
