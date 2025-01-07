@@ -14,8 +14,9 @@ article, book, dataset, etc asset types. Especially in the humanities, you will 
 into publications like audio recordings, sculptures, paintings, plays, costume designs,
 set designs, and more. While Esploro has asset types like ‘theater’ and ‘musical 
 composition,’ not every asset is going to fit perfectly in one of the predetermined 
-categories, or even have standard metadata to enter. The following are some examples of
-non-traditional deposits I’ve seen:
+categories, or even have standard metadata to enter. By virtue of being 'non-traditional,'
+it is impossible to explain how to make a deposit for every possible medium. The following
+are examples of assets I have worked with directly:
 
 ### Art
 For an individual piece, you will ideally have an image(s) of the piece and a 
