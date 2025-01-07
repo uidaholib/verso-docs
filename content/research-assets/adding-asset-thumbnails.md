@@ -5,7 +5,7 @@ title: Adding Asset Thumbnails
 topics:
 ---
 ## Relevant Ex Libris Documentation
--
+- [Working with Research Assets](https://knowledge.exlibrisgroup.com/Esploro/Product_Documentation/Esploro_Online_Help_(English)/Working_with_the_Esploro_Research_Hub/010_Working_with_Research_Assets)
 ## Adding Thumbnail Images for Assets
 Last Updated: 3/6/2024, Jeremy Kenyon
 
