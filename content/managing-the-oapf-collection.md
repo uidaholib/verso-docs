@@ -84,7 +84,7 @@ Sometimes things disappear from this list or get skipped during the update. In t
 * Next to Set name, search for OAPF   
 * In the righthand menu, click Content   
 * Click the Export list button (pictured below)
-<img src="/images/oapf-list-export.jpg" width="800" alt="A screenshot of the OAPF set list with the Export list button circled in red">
+<img src="https://github.com/uidaholib/verso-docs/blob/main/images/oapf-list-export.jpg" width="800" alt="A screenshot of the OAPF set list with the Export list button circled in red">
 
 * Open the resulting Excel sheet and compare this list with the [OAPF Funded Articles](https://www.lib.uidaho.edu/open/oapf/funded.html) page/the Combined OAPF report (you could probably use AI to compare these lists if you want)
 * Identify the missing articles (**Note:** Make sure you record the DOIs to simplify the search.)
