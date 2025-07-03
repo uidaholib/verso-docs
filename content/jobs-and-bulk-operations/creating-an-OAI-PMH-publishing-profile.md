@@ -6,7 +6,7 @@ topics:
 ---
 ## Creating an OAI-PMH publishing profile
 
-Relevant Esploro Documentation:  
+### Relevant Esploro Documentation:  
   
 Step 2:  
 [Setting Up OAI Integration - Ex Libris Knowledge Center](https://knowledge.exlibrisgroup.com/Alma/Product_Documentation/010Alma_Online_Help_(English)/090Integrations_with_External_Systems/030Resource_Management/060Setting_Up_OAI_Integration)  
@@ -15,7 +15,7 @@ Step 3:
 Step 4:  
 [Examples of OAI Syntax - Ex Libris Developer Network](https://developers.exlibrisgroup.com/blog/examples-of-oai-syntax/)  
 
-## ---
+---
 
 This process can be done in 4 main steps:  
 1.	Create a set  
@@ -23,12 +23,12 @@ This process can be done in 4 main steps:
 3.	Create a publication profile
 4.	Test Access  
 
-## Step 1: Create a set  
+### Step 1: Create a set  
 You will need to make a set to be published.  
 Admin>Manage Sets  
 You can select a set that already exists, or make one from scratch.  
 
-## Step 2: Configure the OAI Definition  
+### Step 2: Configure the OAI Definition  
 Configuration>General>External Systems> Integration Profiles  
   
 - Select OAI_DEFINITION (Note: You can only have one OAI profile for the whole institution, so you only need to edit the existing one.)  
@@ -43,7 +43,7 @@ Configuration>General>External Systems> Integration Profiles
   - Save  
 - On the actions tab, save / copy the Repository Base URL. You will need it later.
 
-## Step 3: Create a Publishing Profile  
+### Step 3: Create a Publishing Profile  
 Leave configuration and go to Esploro home.  
   
 Repository>Publishing>Manage Publishing Profiles  
@@ -65,7 +65,7 @@ Repository>Publishing>Manage Publishing Profiles
 - Click your new profile.
 - Click ‘Run’. This will start a publication job. Wait for the job to finish (will take some time, refresh the monitor jobs page to track progress. Admin>Monitor Jobs).
 
-## Step 4: Test Access  
+### Step 4: Test Access  
 Ensure that you have the URL from step 2  
 Ensure that you have run the publication job on your publication profile as seen in step 3  
 Paste the saved URL into a new browser window and follow the step 4 documentation (above) to properly format your URL  
